@@ -6,7 +6,7 @@ from PIL import Image, ImageDraw
 import random
 
 # Tokeningiz
-TOKEN = "8557905355:AAFWyRPx2tz0s0I9Bxlq6QcsGOM1wyGTotY"
+TOKEN = "BOT_TOKEN"
 bot = telebot.TeleBot(TOKEN)
 
 # Kanal username
